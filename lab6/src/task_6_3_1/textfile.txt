@@ -1,0 +1,4 @@
+Hello world!
+It is text file
+Read me
+hello
